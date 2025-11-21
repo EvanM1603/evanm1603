@@ -3,7 +3,7 @@
 ## 🎮 **About Me**
 I’m Evan, a computing graduate with experience in **software development, cloud technologies, and data analytics**.  
 
-My academic and practical experience spans **cloud architecture, distributed systems, and software development**, with hands-on knowledge of **AWS, Java, JavaScript, SQL, HTML/CSS, and C#**. I am currently completing the **[Microsoft Power BI Data Analyst course](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)** and recently completed the **[Google IT Support Fundamentals]([https://grow.google/certificates/it-support/](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support))** certification.
+My academic and practical experience spans **cloud architecture, distributed systems, and software development**, with hands-on knowledge of **AWS, Java, JavaScript, SQL, HTML/CSS, and C#**. I am currently completing the **[Microsoft Power BI Data Analyst course](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)** and recently completed the **[Google IT Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support)** certification.
 
 As a professional esports **in-game leader (IGL)** for WYLDE’s Rainbow Six Siege team, I developed **leadership, strategic thinking, and high-pressure decision-making skills** that translate directly to tech and team-focused environments.
 
@@ -46,7 +46,7 @@ I am passionate about using **technology to solve problems** and **leadership to
 ---
 
 ## 🎇 Certifications
-- **[Google IT Support – Technical Support Fundamentals]([https://grow.google/certificates/it-support/](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support))** – Nov 2025  
+- **[Google IT Support – Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support)** – Nov 2025  
   ◦ Skills gained: Troubleshooting, networking basics, system administration, Linux & Windows, IT security fundamentals  
 
 - **[Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)** – In Progress  
