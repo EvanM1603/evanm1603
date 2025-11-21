@@ -17,79 +17,135 @@ I am passionate about using technology to problem-solve and leadership to build 
 🎓 Education
 
 Dundalk Institute of Technology
+
 Bachelors (Honours) in Computing, Cloud Computing
+
 Expected - Jun 2026
 
 Year 1:
+
 Semester 1
+
 • Cloud Architecture 
+
 • Software Engineering
+
 • Project 
+
 • Mobile Development
+
 • Research Methods
+
 • Service Oriented Architecture
 
 Year 1:
+
 Semester 2
+
 • Cloud Architecture 
+
 • Software Engineering 
+
 • Project 
+
 • Business Organisation
+
 • Concurrent & Distributed Programming
+
 • Enterprise Governance & Compliance
 
 
 Dundalk Institute of Technology
+
 Bachelors in Computing, Software Development
 
 Year 1:
+
 Semester 1
+
 • Communication Skills
+
 • Computer Hardware
+
 • Introduction to System Administration
+
 • Introduction to Web Development
+
 • Mathematics for Computing 1
+
 • Programming Principles
 
+
 Semester 2
+
 • Dynamic Web Development
+
 • Introduction to Databases
+
 • Introduction to Networking
+
 • Introduction to Scripting
+
 • Mathematics for Computing 2
+
 • Programming Principles
 
 Year 2:
+
 Semester 1
+
 • Algorithms
+
 • Data Analysis for Computing
+
 • Database Development
+
 • Object-Oriented Programming
+
 • Software Testing
+
 • Web Application Development
 
 Semester 2
+
 • Data Structures
+
 • Database Management
+
 • Introduction to Software Engineering
+
 • Object-Oriented Programming
+
 • Security for Software Developers
+
 • Web Application Development
 
 Year 3:
+
 Semester 1
+
 • Cloud Foundations
+
 • Database Administration
+
 • Software Project Management
+
 • Web Patterns
+
 • Web Services
+
 • Web Frameworks
 
 Semester 2 
+
 • Cloud Technologies
+
 • Ethics and Professional Issues
+
 • Networking Programming
+
 • Software Project
+
 • Web Frameworks
 
 ⭐ Skills & Technologies
