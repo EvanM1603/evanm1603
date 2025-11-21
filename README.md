@@ -22,60 +22,68 @@
 ---
 
 ## ⭐ **Skills**
+
 **Programming & Frameworks** 
-C#
 
-Java
+● C#
 
-JavaScript
+● Java
 
-PHP
+● JavaScript
 
-HTML
+● PHP
 
-CSS (Cascading Style Sheets)
+● HTML
 
-Bootstrap (Framework)
+● CSS (Cascading Style Sheets)
 
-Ionic Framework
+● Bootstrap (Framework)
+
+● Ionic Framework
+
 **Cloud & Infrastructure** 
-Cloud Computing
 
-Amazon Web Services (AWS)
+● Cloud Computing
 
-Microsoft Azure
+● Amazon Web Services (AWS)
 
-Linux
+● Microsoft Azure
 
-Windows
+● Linux
+
+● Windows
+
 **Data & Databases** 
-Databases
 
-SQL
+● Databases
 
-Microsoft Excel
+● SQL
+
+● Microsoft Excel
+
 **Professional & Soft Skills** 
-Agile Project Management
 
-Cash Handling
+● Agile Project Management
 
-Community Engagement
+● Cash Handling
 
-Customer Service
+● Community Engagement
 
-High-Pressure Situations
+● Customer Service
 
-Problem Solving
+● High-Pressure Situations
 
-Research Skills
+● Problem Solving
 
-Strategic Planning
+● Research Skills
 
-Team Leadership
+● Strategic Planning
 
-Teamwork
+● Team Leadership
 
-Video Editing
+● Teamwork
+
+● Video Editing
 
 
 ---
