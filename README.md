@@ -19,10 +19,10 @@ I am passionate about using technology to problem-solve and leadership to build 
 
 ## 🎓 **Education**
 
-### **Bachelors (Honours) in Computing, Cloud Computing (In Progress)**
+### **Bachelors (Honours) in Computing, Cloud Computing - In Progress**
 
 
-### **Bachelors in Computing, Software Development**
+### **Bachelors in Computing, Software Development - Sep 2024**
 
 
 ---
@@ -56,5 +56,5 @@ I am passionate about using technology to problem-solve and leadership to build 
 ### **Google IT Support – Technical Support Fundamentals - Nov 2025**
 
 
-### **Microsoft Power BI Data Analyst (In Progress)**
+### **Microsoft Power BI Data Analyst - In Progress**
 
