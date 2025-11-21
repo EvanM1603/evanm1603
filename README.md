@@ -19,7 +19,7 @@ I am passionate about using **technology to solve problems** and **leadership to
 
 ## 🎓 Education
 - **[BSc (Hons) in Computing, Cloud Computing – Dundalk Institute of Technology](https://www.dkit.ie/courses/bsc-hons-in-computing-in-cloud-computing)** – In Progress  
-  ◦ Focus: Cloud architecture, distributed systems, service-oriented development, enterprise governance, mobile development, software engineering  
+  ◦ Focus: Cloud architecture, service-oriented development, enterprise governance, mobile development, software engineering  
   ◦ Hands-on: Azure & AWS, cloud-native apps, mobile apps, research projects  
 
 - **[BSc in Computing, Software Development – Dundalk Institute of Technology](https://www.dkit.ie/courses/bsc-in-computing-common-entry)** – Sep 2024  
