@@ -19,10 +19,10 @@ I am passionate about using technology to problem-solve and leadership to build 
 
 ## 🎓 **Education**
 
-### **Bachelors (Honours) in Computing, Cloud Computing - In Progress**
+### ◦ **[BSc (Hons) in Computing, Cloud Computing – Dundalk Institute of Technology](https://www.dkit.ie/course/bsc-hons-computing-cloud-computing)** – In Progress 
 
 
-### **Bachelors in Computing, Software Development - Sep 2024**
+### ◦ **[BSc in Computing, Software Development – Dundalk Institute of Technology](https://www.dkit.ie/course/bsc-computing-software-development)** – Sep 2024  
 
 
 ---
@@ -53,8 +53,9 @@ I am passionate about using technology to problem-solve and leadership to build 
 
 ## 🎇 **Licenses & certifications**
 
-### **Google IT Support – Technical Support Fundamentals - Nov 2025**
+### ◦ **[Google IT Support – Technical Support Fundamentals](https://grow.google/certificates/it-support/)** – Nov 2025  
 
 
-### **Microsoft Power BI Data Analyst - In Progress**
+### ◦ **[Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)** – In Progress  
+
 
