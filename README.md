@@ -1,9 +1,13 @@
-# 👨‍💻 Evan Mc Donnell – Cloud Computing Student & Esports Leader
+# 👨‍💻 Evan Mc Donnell – Computing Graduate & Professional Esports In-Game Leader
 
 ## **About Me**
-Welcome to my GitHub profile! I’m a cloud computing student and former professional esports in-game leader with experience in software development, cloud technologies, and distributed systems. I’m passionate about building reliable, scalable solutions and applying problem-solving, leadership, and analytical skills developed both academically and competitively.
+I’m Evan, a computing graduate with experience in software development, cloud technologies, and data analytics.
 
-I enjoy working with modern cloud platforms, backend development, and system design — and I’m always looking to improve, learn, and contribute to meaningful technical projects.
+My academic and practical experience spans cloud architecture, distributed systems, and software development, with hands-on knowledge of AWS, Java, JavaScript, SQL, HTML/CSS, and C#. I am currently completing the Microsoft Power BI Data Analyst course to further strengthen my data analytics capabilities, I also recently completed the Google Technical Support Fundamentals Course.
+
+As the professional esports in-game leader (IGL) for WYLDE’s Rainbow Six Siege team, I developed strong leadership, strategic thinking, and high-pressure decision-making skills, experience that directly translates to tech and team-focused environments.
+
+I am passionate about using technology to problem-solve and leadership to build efficient solutions and high-performing teams. I thrive in environments where strategy, collaboration, and innovation are key, whether in cloud infrastructure, software development, or project delivery.
 
 ---
 
@@ -13,52 +17,36 @@ I enjoy working with modern cloud platforms, backend development, and system des
 
 ---
 
-## 🎓 **Educational Background**
+## 🎓 **Education**
 
-### **BSc (Hons) in Computing in Cloud Computing**
-Advanced training across cloud architecture, distributed systems, service-oriented development, enterprise governance, mobile development, and software engineering.
+### **Bachelors (Hons) in Computing, Cloud Computing - In Progress**
 
-- Hands-on work with Azure and AWS  
-- Exposure to system design, microservices, and cloud-native development  
-- Experience with mobile apps, research methodologies, and cloud project delivery  
 
-### **BSc in Computing in Software Development**
-Developed strong foundations in algorithms, data structures, web development, databases, software engineering, and cloud fundamentals.
+### **Bachelors in Computing, Software Development**
 
-- Practical experience with Java, C#, JavaScript, PHP, SQL  
-- Built full-stack applications using modern frameworks  
-- Strong grounding in OOP, databases, and web technologies  
 
 ---
 
 ## ⭐ **Key Skills and Expertise**
 
 ### **Programming Languages**
-Java · JavaScript · C# · SQL · PHP · HTML · CSS
+
 
 ### **Frameworks & Tools**
-Bootstrap · Ionic · GitHub
+
 
 ### **Cloud & Systems**
-Azure · AWS · Linux · Windows · Distributed Systems · Databases
+
 
 ### **Professional Skills**
-Leadership · Problem Solving · Teamwork · Communication · High-Pressure Decision-Making · Strategic Planning · Content Creation & Video Editing · Community Engagement
+
 
 ---
 
 ## 🎇 **Courses & Certifications**
 
 ### **Google IT Support – Technical Support Fundamentals**
-Gained knowledge in:  
-- Troubleshooting & customer support  
-- Computer networking foundations  
-- System administration basics  
-- OS concepts (Linux & Windows)  
-- IT security fundamentals  
+
 
 ### **Microsoft Power BI Data Analyst (In Progress)**
-Developing skills in:  
-- Data modelling & transformations  
-- Dashboard creation  
-- Analytical reporting & insights  
+
