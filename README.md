@@ -12,8 +12,8 @@ I am passionate about using technology to problem-solve and leadership to build 
 ---
 
 ## 📫 **Contact Me**
-**Email:** evanmcdonnell09@gmail.com  
-**LinkedIn:** [www.linkedin.com/in/evan-mc-donnell](https://www.linkedin.com/in/evan-mc-donnell)
+◯ **Email:** evanmcdonnell09@gmail.com  
+◯ **LinkedIn:** [www.linkedin.com/in/evan-mc-donnell](https://www.linkedin.com/in/evan-mc-donnell)
 
 ---
 
@@ -53,8 +53,6 @@ I am passionate about using technology to problem-solve and leadership to build 
 
 ## 🎇 **Licenses & certifications**
 
-### **Google IT Support – Technical Support Fundamentals**
-
-
+### **Google IT Support – Technical Support Fundamentals - Nov 2025**
 ### **Microsoft Power BI Data Analyst (In Progress)**
 
