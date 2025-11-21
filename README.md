@@ -19,10 +19,10 @@ I am passionate about using technology to problem-solve and leadership to build 
 
 ## 🎓 **Education**
 
-### ◦ **[BSc (Hons) in Computing, Cloud Computing – Dundalk Institute of Technology](https://www.dkit.ie/course/bsc-hons-computing-cloud-computing)** – In Progress 
+### ◦ **[BSc (Hons) in Computing, Cloud Computing – Dundalk Institute of Technology](https://www.dkit.ie/courses/bsc-hons-in-computing-in-cloud-computing)** – In Progress 
 
 
-### ◦ **[BSc in Computing, Software Development – Dundalk Institute of Technology](https://www.dkit.ie/course/bsc-computing-software-development)** – Sep 2024  
+### ◦ **[BSc in Computing, Software Development – Dundalk Institute of Technology](https://www.dkit.ie/courses/bsc-in-computing-systems-and-operations-software-development-and-devops)** – Sep 2024  
 
 
 ---
