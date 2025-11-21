@@ -1,4 +1,4 @@
-# 👋 Evan Mc Donnell – Computing Graduate & Professional Esports In-Game Leader
+# 👋 Evan Mc Donnell – Computing Graduate
 
 ## 🎮 **About Me**
 
