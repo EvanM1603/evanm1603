@@ -12,8 +12,8 @@ I am passionate about using technology to problem-solve and leadership to build 
 ---
 
 ## 📫 **Contact Me**
-◯ **Email:** evanmcdonnell09@gmail.com  
-◯ **LinkedIn:** [www.linkedin.com/in/evan-mc-donnell](https://www.linkedin.com/in/evan-mc-donnell)
+  ◯ **Email:** evanmcdonnell09@gmail.com  
+  ◯ **LinkedIn:** [www.linkedin.com/in/evan-mc-donnell](https://www.linkedin.com/in/evan-mc-donnell)
 
 ---
 
