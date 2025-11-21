@@ -31,17 +31,17 @@ I am passionate about using technology to problem-solve and leadership to build 
 
 ### **Programming & Frameworks:** 
 
-●  C#, Java, JavaScript, PHP, HTML, CSS (Cascading Style Sheets), Bootstrap (Framework), Ionic Framework
+●  Bootstrap (Framework), C#, CSS (Cascading Style Sheets), HTML, Ionic Framework, Java, JavaScript, PHP
 
 
 ### **Cloud & Infrastructure:** 
 
-●  Cloud Computing, Amazon Web Services (AWS), Microsoft Azure, Linux, Windows
+●  Amazon Web Services (AWS), Cloud Computing, Linux, Microsoft Azure, Windows
 
 
 ### **Data & Databases:** 
 
-●  Databases, SQL, Microsoft Excel
+●  Databases, Microsoft Excel, SQL
 
 
 ### **Professional & Soft Skills:** 
