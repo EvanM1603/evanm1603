@@ -149,71 +149,7 @@ Semester 2
 • Web Frameworks
 
 ⭐ Skills & Technologies
-Programming
 
-C#
-
-Java
-
-JavaScript
-
-PHP
-
-SQL
-
-Web & Mobile Development
-
-HTML
-
-CSS
-
-Bootstrap
-
-Ionic Framework
-
-Cloud & Infrastructure
-
-Azure
-
-AWS
-
-Cloud Architecture
-
-Linux
-
-Windows
-
-Distributed Systems
-
-Databases
-
-Tools
-
-GitHub
-
-Microsoft Excel
-
-Research & Documentation
-
-Agile & Project Management
-
-Professional Skills
-
-Leadership
-
-Teamwork
-
-Strategic Planning
-
-Problem Solving
-
-Communication
-
-High-Pressure Decision-Making
-
-Content Creation & Video Editing
-
-Community Engagement
 
 📚 Certifications
 
