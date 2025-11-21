@@ -10,11 +10,13 @@ I am passionate about using technology to problem-solve and leadership to build 
 
 🔗 Contact
 
+
 📩 Email: evanmcdonnell09@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/evan-mc-donnell
 
 🎓 Education
+
 
 Dundalk Institute of Technology
 
