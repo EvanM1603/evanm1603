@@ -1,6 +1,6 @@
 # 👋 Evan Mc Donnell – Computing Graduate & Professional Esports In-Game Leader
 
-## ** 🎮 About Me**
+## 🎮** About Me**
 
 
 ---
@@ -22,22 +22,13 @@
 ---
 
 ## ⭐ **Skills**
-
-### **Programming Languages**
-
-
-### **Frameworks & Tools**
-
-
-### **Cloud & Systems**
-
-
-### **Professional Skills**
+**-** 
+**-** 
 
 
 ---
 
-## 🎇 **Certifications**
+## 🎇 **Licenses & certifications**
 
 ### **Google IT Support – Technical Support Fundamentals**
 
