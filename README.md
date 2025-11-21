@@ -1,160 +1,75 @@
-🎯 Evan Mc Donnell – Computing Graduate & Esports In-Game Leader
+👨‍💻 Evan Mc Donnell – Cloud Computing Student & Esports Leader
+About Me
 
-I’m Evan, a computing graduate with experience in software development, cloud technologies, and data analytics.
+Welcome to my GitHub profile! I’m a cloud computing student and former professional esports in-game leader with experience in software development, cloud technologies, and distributed systems. I’m passionate about building reliable, scalable solutions and applying problem-solving, leadership, and analytical skills developed both academically and competitively.
 
-My academic and practical experience spans cloud architecture, distributed systems, and software development, with hands-on knowledge of AWS, Java, JavaScript, SQL, HTML/CSS, and C#. I am currently completing the Microsoft Power BI Data Analyst course to further strengthen my data analytics capabilities, I also recently completed the Google Technical Support Fundamentals Course.
+I enjoy working with modern cloud platforms, backend development, and system design — and I’m always looking to improve, learn, and contribute to meaningful technical projects.
 
-As the professional esports in-game leader (IGL) for WYLDE’s Rainbow Six Siege team, I developed strong leadership, strategic thinking, and high-pressure decision-making skills, experience that directly translates to tech and team-focused environments.
+📫 Contact Me
 
-I am passionate about using technology to problem-solve and leadership to build efficient solutions and high-performing teams. I thrive in environments where strategy, collaboration, and innovation are key, whether in cloud infrastructure, software development, or project delivery.
+Email: evanmcdonnell09@gmail.com
 
-🔗 Contact
+LinkedIn: www.linkedin.com/in/evan-mc-donnell
 
+🎓 Educational Background
+BSc (Hons) in Computing in Cloud Computing
 
-📩 Email: evanmcdonnell09@gmail.com
+Advanced training across cloud architecture, distributed systems, service-oriented development, enterprise governance, mobile development, and software engineering.
 
-🔗 LinkedIn: www.linkedin.com/in/evan-mc-donnell
+Hands-on work with Azure and AWS
 
-🎓 Education
+Exposure to system design, microservices, and cloud-native development
 
+Experience with mobile apps, research methodologies, and cloud project delivery
 
-Dundalk Institute of Technology
+BSc in Computing in Software Development
 
-Bachelors (Honours) in Computing, Cloud Computing
+Developed strong foundations in algorithms, data structures, web development, databases, software engineering, and cloud fundamentals.
 
-Expected - Jun 2026
+Practical experience with Java, C#, JavaScript, PHP, SQL
 
-Year 1:
+Built full-stack applications using modern frameworks
 
-Semester 1
+Strong grounding in OOP, databases, and web technologies
 
-• Cloud Architecture 
+⭐ Key Skills and Expertise
+Programming Languages
 
-• Software Engineering
+Java · JavaScript · C# · SQL · PHP · HTML · CSS
 
-• Project 
+Frameworks & Tools
 
-• Mobile Development
+Bootstrap · Ionic · GitHub
 
-• Research Methods
+Cloud & Systems
 
-• Service Oriented Architecture
+Azure · AWS · Linux · Windows · Distributed Systems · Databases
 
-Year 1:
+Professional Skills
 
-Semester 2
+Leadership · Problem Solving · Teamwork · Communication · High-Pressure Decision-Making · Strategic Planning
 
-• Cloud Architecture 
+🎇 Courses & Certifications
+Google IT Support – Technical Support Fundamentals
 
-• Software Engineering 
+Gained knowledge in:
 
-• Project 
+Troubleshooting & customer support
 
-• Business Organisation
+Computer networking foundations
 
-• Concurrent & Distributed Programming
+System administration basics
 
-• Enterprise Governance & Compliance
+OS concepts (Linux & Windows)
 
-
-Dundalk Institute of Technology
-
-Bachelors in Computing, Software Development
-
-Year 1:
-
-Semester 1
-
-• Communication Skills
-
-• Computer Hardware
-
-• Introduction to System Administration
-
-• Introduction to Web Development
-
-• Mathematics for Computing 1
-
-• Programming Principles
-
-
-Semester 2
-
-• Dynamic Web Development
-
-• Introduction to Databases
-
-• Introduction to Networking
-
-• Introduction to Scripting
-
-• Mathematics for Computing 2
-
-• Programming Principles
-
-Year 2:
-
-Semester 1
-
-• Algorithms
-
-• Data Analysis for Computing
-
-• Database Development
-
-• Object-Oriented Programming
-
-• Software Testing
-
-• Web Application Development
-
-Semester 2
-
-• Data Structures
-
-• Database Management
-
-• Introduction to Software Engineering
-
-• Object-Oriented Programming
-
-• Security for Software Developers
-
-• Web Application Development
-
-Year 3:
-
-Semester 1
-
-• Cloud Foundations
-
-• Database Administration
-
-• Software Project Management
-
-• Web Patterns
-
-• Web Services
-
-• Web Frameworks
-
-Semester 2 
-
-• Cloud Technologies
-
-• Ethics and Professional Issues
-
-• Networking Programming
-
-• Software Project
-
-• Web Frameworks
-
-⭐ Skills & Technologies
-
-
-📚 Certifications
-
-Google Technical Support Fundamentals - Nov 2025
+IT security fundamentals
 
 Microsoft Power BI Data Analyst (In Progress)
+
+Developing skills in:
+
+Data modelling & transformations
+
+Dashboard creation
+
+Analytical reporting & insights
