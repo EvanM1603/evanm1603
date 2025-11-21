@@ -23,7 +23,7 @@
 
 ## ⭐ **Skills**
 
-**Programming & Frameworks** 
+**Programming & Frameworks:** 
 
 ● C#
 
@@ -41,7 +41,8 @@
 
 ● Ionic Framework
 
-**Cloud & Infrastructure** 
+
+**Cloud & Infrastructure:** 
 
 ● Cloud Computing
 
@@ -53,7 +54,8 @@
 
 ● Windows
 
-**Data & Databases** 
+
+**Data & Databases:** 
 
 ● Databases
 
@@ -61,7 +63,8 @@
 
 ● Microsoft Excel
 
-**Professional & Soft Skills** 
+
+**Professional & Soft Skills:** 
 
 ● Agile Project Management
 
