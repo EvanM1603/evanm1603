@@ -4,7 +4,7 @@
 
 I’m Evan, a computing graduate with experience in software development, cloud technologies, and data analytics.
 
-My academic and practical background covers cloud architecture and full-stack development, with hands-on experience in AWS, Java, JavaScript, SQL, HTML/CSS, and C#. I am currently completing the **[Microsoft Power BI Data Analyst course](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)** to strengthen my data analytics skills, and I recently completed the **[Google IT Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support)** certification.
+My academic and practical background covers cloud architecture and full-stack development, with hands-on experience in AWS, Java, JavaScript, SQL, HTML/CSS, and C#. I am currently completing the **[Microsoft Power BI Data Analyst course](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)** to strengthen my data analytics skills, and I recently completed the **[Google Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support)** certification.
 
 As the professional esports in-game leader (IGL) for WYLDE’s Rainbow Six Siege team, I developed strong leadership, strategic thinking, and high-pressure decision-making abilities - skills that translate directly into technical, collaborative, and fast-paced work environments.
 
