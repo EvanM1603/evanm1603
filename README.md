@@ -1,6 +1,6 @@
-# 👋 Evan Mc Donnell – Computing Graduate
+# 👋 **Evan Mc Donnell – Computing Graduate**
 
-## 🎮 **About Me**
+## 🎮 **About Me:**
 
 I’m Evan, a computing graduate with experience in software development, cloud technologies, and data analytics.
 
@@ -12,13 +12,13 @@ I’m passionate about using technology to solve problems and using leadership t
 
 ---
 
-## 📫 **Contact Me**
+## 📫 **Contact Me:**
   ◦ **Email:** evanmcdonnell09@gmail.com  
   ◦ **LinkedIn:** [www.linkedin.com/in/evan-mc-donnell](https://www.linkedin.com/in/evan-mc-donnell)
 
 ---
 
-## 🎓 Education
+## 🎓 **Education:**
 - **[BSc (Hons) in Computing, Cloud Computing – Dundalk Institute of Technology](https://www.dkit.ie/courses/bsc-hons-in-computing-in-cloud-computing)** – In Progress  
   ◦ Focus: Cloud architecture, service-oriented development, enterprise governance, mobile development, software engineering  
   ◦ Hands-on: Azure & AWS, cloud-native apps, mobile apps, research projects  
@@ -29,24 +29,23 @@ I’m passionate about using technology to solve problems and using leadership t
 
 ---
 
-## ⭐ Skills
+## ⭐ **Skills:**
 
-### Programming & Frameworks
+### **Programming & Frameworks:**
 • Bootstrap (Framework) • C# • CSS (Cascading Style Sheets) • HTML • Ionic Framework • Java • JavaScript • PHP
 
-### Cloud & Infrastructure
+### **Cloud & Infrastructure:**
 • Amazon Web Services (AWS) • Cloud Computing • Linux • Microsoft Azure • Windows
 
-### Data & Databases
+### **Data & Databases:**
 • Databases • Microsoft Excel • SQL
 
-### Professional & Soft Skills
+### **Professional & Soft Skills:**
 • Agile Project Management • Cash Handling • Community Engagement • Customer Service • High-Pressure Situations • Problem Solving • Research Skills • Strategic Planning • Team Leadership • Teamwork • Video Editing
-
 
 ---
 
-## 🎇 Certifications
+## 🎇 Certifications:
 - **[Google IT Support – Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support)** – Nov 2025  
   ◦ Skills gained: Troubleshooting, networking basics, system administration, Linux & Windows, IT security fundamentals  
 
