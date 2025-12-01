@@ -1,14 +1,14 @@
 # 👋 Evan Mc Donnell – Computing Graduate
 
 ## 🎮 **About Me**
-I’m Evan, a computing graduate with experience in **software development, cloud technologies, and data analytics**.  
 
-My academic and practical experience spans **cloud architecture and software development**, with hands-on knowledge of **AWS, Java, JavaScript, SQL, HTML/CSS, and C#**. I am currently completing the **[Microsoft Power BI Data Analyst course](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)** and recently completed the **[Google IT Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support)** certification.
+I’m Evan, a computing graduate with experience in software development, cloud technologies, and data analytics.
 
-As a professional esports **in-game leader (IGL)** for WYLDE’s Rainbow Six Siege team, I developed **leadership, strategic thinking, and high-pressure decision-making skills** that translate directly to tech and team-focused environments.
+My academic and practical background covers cloud architecture and full-stack development, with hands-on experience in AWS, Java, JavaScript, SQL, HTML/CSS, and C#. I am currently completing the **[Microsoft Power BI Data Analyst course](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)** to strengthen my data analytics skills, and I recently completed the **[Google IT Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals?specialization=google-it-support)** certification.
 
-I am passionate about using **technology to solve problems** and **leadership to build high-performing teams**. I thrive in environments where **strategy, collaboration, and innovation** are key, whether in cloud infrastructure, software development, or project delivery.
+As the professional esports in-game leader (IGL) for WYLDE’s Rainbow Six Siege team, I developed strong leadership, strategic thinking, and high-pressure decision-making abilities - skills that translate directly into technical, collaborative, and fast-paced work environments.
 
+I’m passionate about using technology to solve problems and using leadership to build efficient solutions and high-performing teams. I thrive in environments where strategy, teamwork, and innovation come together, whether in cloud infrastructure, software development, or project delivery.
 ---
 
 ## 📫 **Contact Me**
