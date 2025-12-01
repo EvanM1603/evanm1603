@@ -9,6 +9,7 @@ My academic and practical background covers cloud architecture and full-stack de
 As the professional esports in-game leader (IGL) for WYLDE’s Rainbow Six Siege team, I developed strong leadership, strategic thinking, and high-pressure decision-making abilities - skills that translate directly into technical, collaborative, and fast-paced work environments.
 
 I’m passionate about using technology to solve problems and using leadership to build efficient solutions and high-performing teams. I thrive in environments where strategy, teamwork, and innovation come together, whether in cloud infrastructure, software development, or project delivery.
+
 ---
 
 ## 📫 **Contact Me**
